@@ -1,0 +1,17 @@
+{
+  "name": "practice_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "nodemon ./src/main.ts"
+  },
+  "keywords": [],
+  "author": "Ilya Guseynov",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.14",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  }
+}
